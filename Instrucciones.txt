@@ -1,0 +1,2 @@
+add rd, rs1, rs2
+sub r5, r4, 3
