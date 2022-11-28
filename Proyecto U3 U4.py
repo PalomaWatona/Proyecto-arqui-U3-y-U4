@@ -14,7 +14,5 @@ with open('Instrucciones.txt', 'r') as archivo:
                 operacion.add('add')
         activar = 0
         print("")
-        if (operacion[0] == 'add'):
-            operacion[0] = suma(operacion[1], operacion[2], operacion[3])
-
-
+        #if (operacion[0] == 'add'):
+        #    operacion[0] = suma(operacion[1], operacion[2], operacion[3])
